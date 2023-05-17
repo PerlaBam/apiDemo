@@ -1,4 +1,4 @@
-API demo project
+# **API demo project**
 
 [![Java CI](https://github.com/PerlaBam/apiDemo/actions/workflows/apiDemo-build.yaml/badge.svg)](https://github.com/PerlaBam/apiDemo/actions/workflows/apiDemo-build.yaml)
 
